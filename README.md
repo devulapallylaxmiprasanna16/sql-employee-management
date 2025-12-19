@@ -1,5 +1,4 @@
 # sql-employee-management
-# Employee & Department Management System (SQL Project)
 
 📌 Project Overview
 This is a beginner-level SQL project created to practice and understand relational database concepts using MySQL.
